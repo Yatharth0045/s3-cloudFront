@@ -42,3 +42,8 @@
 10. Now wait for the status to become ***Deployed*** from ***InProgress*** 
 
 11. Now hit the Domain name to access the [index.html](https://<domain-name>/index.html)
+
+
+### Screenshots
+
+All screenshots are under `screen-shots/` directory
